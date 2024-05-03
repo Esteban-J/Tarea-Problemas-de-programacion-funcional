@@ -1,0 +1,20 @@
+{
+  "Granos": 2,
+  "Aceites": 2,
+  "Endulzantes": 3,
+  "Condimentos": 2,
+  "Harinas": 1,
+  "Bebidas": 19,
+  "Lácteos": 2,
+  "Enlatados": 5,
+  "Sopas": 12,
+  "Pastas": 1,
+  "Cereales": 8,
+  "Snacks": 7,
+  "Salsas": 5,
+  "Bebidas alcohólicas": 2,
+  "Panadería": 1,
+  "Frutos secos": 6,
+  "Alimentos para bebés": 1,
+  "Higiene personal": 1
+}

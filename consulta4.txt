@@ -1,0 +1,128 @@
+[
+  {
+    "clave": "001",
+    "descripcion": "Arroz",
+    "precio": 25.5,
+    "clasificacion": "Granos",
+    "cantidad": 17,
+    "existenciaMinima": 20,
+    "existenciaMaxima": 200
+  },
+  {
+    "clave": "002",
+    "descripcion": "Frijol",
+    "precio": 20.75,
+    "clasificacion": "Granos",
+    "cantidad": 109,
+    "existenciaMinima": 10,
+    "existenciaMaxima": 150
+  },
+  {
+    "clave": "003",
+    "descripcion": "Aceite de cocina",
+    "precio": 35,
+    "clasificacion": "Aceites",
+    "cantidad": 35,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "006",
+    "descripcion": "Harina de trigo",
+    "precio": 22,
+    "clasificacion": "Harinas",
+    "cantidad": 34,
+    "existenciaMinima": 10,
+    "existenciaMaxima": 120
+  },
+  {
+    "clave": "007",
+    "descripcion": "Café",
+    "precio": 30.5,
+    "clasificacion": "Bebidas",
+    "cantidad": 103,
+    "existenciaMinima": 10,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "009",
+    "descripcion": "Atún enlatado",
+    "precio": 28,
+    "clasificacion": "Enlatados",
+    "cantidad": 70,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 80
+  },
+  {
+    "clave": "011",
+    "descripcion": "Mantequilla",
+    "precio": 27.5,
+    "clasificacion": "Lácteos",
+    "cantidad": 88,
+    "existenciaMinima": 10,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "013",
+    "descripcion": "Cereal de desayuno",
+    "precio": 24.75,
+    "clasificacion": "Cereales",
+    "cantidad": 63,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "018",
+    "descripcion": "Cerveza",
+    "precio": 28.5,
+    "clasificacion": "Bebidas alcohólicas",
+    "cantidad": 42,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 70
+  },
+  {
+    "clave": "022",
+    "descripcion": "Cereal para bebés",
+    "precio": 30,
+    "clasificacion": "Alimentos para bebés",
+    "cantidad": 36,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 60
+  },
+  {
+    "clave": "032",
+    "descripcion": "Jugo de manzana",
+    "precio": 20.5,
+    "clasificacion": "Bebidas",
+    "cantidad": 17,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 50
+  },
+  {
+    "clave": "033",
+    "descripcion": "Jugo de piña",
+    "precio": 22,
+    "clasificacion": "Bebidas",
+    "cantidad": 18,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 50
+  },
+  {
+    "clave": "034",
+    "descripcion": "Jugo de uva",
+    "precio": 25.75,
+    "clasificacion": "Bebidas",
+    "cantidad": 16,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 50
+  },
+  {
+    "clave": "041",
+    "descripcion": "Aceite de oliva",
+    "precio": 30.75,
+    "clasificacion": "Aceites",
+    "cantidad": 18,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 50
+  }
+]

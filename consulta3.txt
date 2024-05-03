@@ -1,0 +1,20 @@
+[
+  {
+    "clave": "001",
+    "descripcion": "Arroz",
+    "precio": 25.5,
+    "clasificacion": "Granos",
+    "cantidad": 17,
+    "existenciaMinima": 20,
+    "existenciaMaxima": 200
+  },
+  {
+    "clave": "002",
+    "descripcion": "Frijol",
+    "precio": 20.75,
+    "clasificacion": "Granos",
+    "cantidad": 109,
+    "existenciaMinima": 10,
+    "existenciaMaxima": 150
+  }
+]
